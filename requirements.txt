@@ -1,0 +1,8 @@
+transformers
+datasets
+torch
+python-docx
+scikit-learn
+optuna
+trl
+evaluate

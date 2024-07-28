@@ -1,0 +1,48 @@
+1. Solicitare client:
+[cerinta]
+
+ Oferta pentru NumeFirma
+
+Scopul documentului:
+
+Această ofertă preliminară este bazată pe informațiile pe care ni le-ați furnizat. Înainte de a începe efectiv dezvoltarea și de a vă putea oferi o estimare exactă a costurilor și timpului necesar, va fi necesar să parcurgem câteva etape esențiale de planificare.
+1. Realizarea unei diagrame logice pentru a defini arhitectura aplicației.
+2. Crearea unei diagrame ER pentru a structura baza de date.
+3. Realizarea unui design inițial în Figma pentru a elimina orice ambiguitate legată de interfața grafică.
+
+Pentru începerea etapelor de mai sus, va fi necesar să semnăm un contract de colaborare și să achitați în avans prețul acestora:
+Diagrama logică și diagrama ER: X Euro + TVA 
+Proiectul în Figma: X Euro + TVA 
+Acești bani se vor scădea din prețul total de dezvoltare odată acceptată oferta fermă.
+
+Definiții și tehnologii folosite:
+
+[Definitii]
+
+Propunere structură
+
+[structura_propusa]
+
+Sugestii suplimentare:
+
+[sugestii_suplimentare]
+
+IV. Pret și timp de implementare:
+
+*Fiecare punct poate fi supus modificării, editării sau realizării într-un mod mai sumar, cu reducerea funcționalităților, în vederea obținerii unei costuri mai reduse.
+
+*Prețul este orientativ și nu trebuie să fie limitativ; în cazul în care bugetul beneficiarului este mai restrâns decât oferta noastră în faza de proiectare, putem identifica alternative la costuri inferioare prin integrarea unui număr redus de funcționalități.
+
+Timp estimat de livrare:
+- Dezvoltare de bază împreună cu aplicațiile Client, Rider, Restaurant și Admin ([zile_dezvoltare] zile cu [numar_programatori] Programatori): X Euro + TVA ([Total Ore lucratoare] Ore lucratoare)
+
+- Dezvoltare de bază împreună cu aplicațiile Client, Rider, Restaurant și Admin și sugestii suplimentare ([zile_dezvoltare] zile cu [numar_programatori] Programatori): X Euro + TVA ([Total Ore lucratoare] Ore lucratoare)
+
+Timpul de livrare este influențat de complexitatea proiectului și cerințele dumneavoastră. Vom lucra în strânsă colaborare cu dumneavoastră pentru a respecta termenele stabilite.
+
+*În cadrul actualei oferte, beneficiați de serviciile a [numar_programatori] programatori specializați în limbajul de programare necesar pentru proiectul dumneavoastră, un manager de proiect care va concepe și coordona proiectul, precum și un grafician responsabil de conceperea interfeței utilizatorului/aplicației. Fiecare echipă din cadrul societății noastre dispune de suportul unui mentor, responsabil de supravegherea și asistarea programatorilor. Prețul pentru această echipă este de X de euro pe oră. 
+
+Termeni de achiziție:
+
+1.	Această ofertă este strict confidențială. Veziv IT Services SRL nu oferă permisiunea de a împărtăși detalii cu terțe părți.
+2.	Prețurile sunt fără TVA.

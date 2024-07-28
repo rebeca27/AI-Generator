@@ -1,0 +1,4 @@
+[{
+    "cerinta": "Clientul solicită dezvoltarea unei aplicații de tip Glovo. Specifică următoarele secțiuni:\n● Sistem de logistică a rider-ului.\n● Înregistrarea restaurantelor în aplicație.\n● Primirea comenzilor de către clienți.\n● Posibilitatea de a adăuga sau elimina produse din meniul restaurantului.\n● Plata cu cardul.\nTask-uri Adiționale Ne-meneționate de Client, dar Necesare:\n● Secțiunea financiară: cum restaurantele solicită bani de la administratorii aplicației.\n● Modalități de plată pentru rideri.\n● Generarea automată a facturilor și posibilitatea clientului de a descărca factura generată."
+}
+]

@@ -1,0 +1,519 @@
+[
+    {
+        "cerinta": "Dezvoltarea unei aplicații web simple de tip blog, cu funcționalități de bază (articole, comentarii, autentificare).",
+        "propunere_structura": "1. Frontend: React, HTML, CSS\n2. Backend: Node.js, Express\n3. Baza de date: MongoDB\n4. Autentificare: JWT",
+        "zile_dezvoltare": 14,
+        "numar_programatori": 2
+    },
+    {
+        "cerinta": "Crearea unei aplicații mobile native pentru iOS și Android, cu funcționalități de chat, geolocalizare și plăți online.",
+        "propunere_structura": "1. iOS: Swift, UIKit\n2. Android: Kotlin, Jetpack Compose\n3. Backend: Firebase\n4. Chat: Firebase Realtime Database\n5. Geolocalizare: Google Maps API\n6. Plăți: Stripe",
+        "zile_dezvoltare": 28,
+        "numar_programatori": 3
+    },
+    {
+        "cerinta": "Dezvoltarea unei aplicații web simple de tip blog, cu funcționalități de bază (articole, comentarii, autentificare).",
+        "propunere_structura": "1. Frontend: React, HTML, CSS\n2. Backend: Node.js, Express\n3. Baza de date: MongoDB\n4. Autentificare: JWT",
+        "zile_dezvoltare": 14,
+        "numar_programatori": 2
+    },
+    {
+        "cerinta": "Crearea unei aplicații mobile native pentru iOS și Android, cu funcționalități de chat, geolocalizare și plăți online.",
+        "propunere_structura": "1. iOS: Swift, UIKit\n2. Android: Kotlin, Jetpack Compose\n3. Backend: Firebase\n4. Chat: Firebase Realtime Database\n5. Geolocalizare: Google Maps API\n6. Plăți: Stripe",
+        "zile_dezvoltare": 28,
+        "numar_programatori": 3
+    },
+    {
+        "cerinta": "Dezvoltarea unui sistem complex de management al relațiilor cu clienții (CRM), cu integrare email marketing și automatizări.",
+        "propunere_structura": "1. Frontend: Angular\n2. Backend: Python, Django\n3. Baza de date: PostgreSQL\n4. Email marketing: Mailchimp API\n5. Automatizări: Zapier",
+        "zile_dezvoltare": 56,
+        "numar_programatori": 4
+    },
+    {
+        "cerinta": "Crearea unui magazin online cu funcționalități de căutare avansată, filtre, coș de cumpărături, plăți și integrări cu furnizori.",
+        "propunere_structura": "1. Frontend: Vue.js, Nuxt.js\n2. Backend: Node.js, Express\n3. Baza de date: MySQL\n4. Căutare: Algolia\n5. Plăți: PayPal, Stripe\n6. Integrări: API-uri furnizori",
+        "zile_dezvoltare": 42,
+        "numar_programatori": 3
+    },
+    {
+        "cerinta": "Dezvoltarea unei platforme de e-learning pentru companii, cu funcționalități de cursuri online, evaluări și certificate.",
+        "propunere_structura": "1. Frontend: Vue.js\n2. Backend: Django\n3. Baza de date: MySQL\n4. Video: JW Player API",
+        "zile_dezvoltare": 56,
+        "numar_programatori": 4
+    },
+    {
+        "cerinta": "Crearea unei aplicații de fitness personalizată, cu funcționalități de antrenamente, nutriție și urmărirea progresului.",
+        "propunere_structura": "1. Frontend: React Native\n2. Backend: Django\n3. Baza de date: PostgreSQL\n4. API-uri de sănătate: Fitbit, MyFitnessPal",
+        "zile_dezvoltare": 49,
+        "numar_programatori": 3
+    },
+    {
+        "cerinta": "Dezvoltarea unei aplicații de gestionare a inventarului pentru mici afaceri, cu funcționalități de urmărire a stocurilor și raportare.",
+        "propunere_structura": "1. Frontend: Vue.js\n2. Backend: Node.js, Express\n3. Baza de date: MongoDB\n4. Raportare: Chart.js",
+        "zile_dezvoltare": 35,
+        "numar_programatori": 2
+    },
+    {
+        "cerinta": "Crearea unei aplicații de gestionare a fermelor, cu funcționalități de urmărire a culturilor, inventar și raportare.",
+        "propunere_structura": "1. Frontend: Angular\n2. Backend: Node.js, Express\n3. Baza de date: MongoDB\n4. GIS: Leaflet.js",
+        "zile_dezvoltare": 49,
+        "numar_programatori": 3
+    },
+    {
+        "cerinta": "Dezvoltarea unei aplicații de turism, cu funcționalități de planificare a călătoriilor, recenzii și rezervări.",
+        "propunere_structura": "1. Frontend: Angular\n2. Backend: Spring Boot\n3. Baza de date: MySQL\n4. Rezervări: Booking.com API",
+        "zile_dezvoltare": 49,
+        "numar_programatori": 3
+    },
+    {
+        "cerinta": "Crearea unei aplicații de marketplace pentru produse handmade, cu funcționalități de vânzare, cumpărare și recenzii.",
+        "propunere_structura": "1. Frontend: React\n2. Backend: Node.js, Express\n3. Baza de date: MongoDB\n4. Plăți: PayPal",
+        "zile_dezvoltare": 42,
+        "numar_programatori": 3
+    },
+    {
+        "cerinta": "Dezvoltarea unei platforme de recrutare, cu funcționalități de publicare a joburilor, căutare de candidați și interviuri online.",
+        "propunere_structura": "1. Frontend: React\n2. Backend: Django\n3. Baza de date: PostgreSQL\n4. Video interviuri: Zoom API",
+        "zile_dezvoltare": 42,
+        "numar_programatori": 3
+    },
+    {
+        "cerinta": "Crearea unei aplicații de gestionare a școlilor, cu funcționalități de programare a cursurilor, notare și prezență.",
+        "propunere_structura": "1. Frontend: Angular\n2. Backend: Spring Boot\n3. Baza de date: MySQL\n4. Autentificare: JWT",
+        "zile_dezvoltare": 56,
+        "numar_programatori": 4
+    },
+    {
+        "cerinta": "Dezvoltarea unei platforme de donare de sânge, cu funcționalități de înregistrare, programare și notificări.",
+        "propunere_structura": "1. Frontend: React\n2. Backend: Node.js, Express\n3. Baza de date: MongoDB\n4. Notificări: OneSignal",
+        "zile_dezvoltare": 35,
+        "numar_programatori": 2
+    },
+    {
+        "cerinta": "Crearea unei aplicații de gestionare a bugetelor personale, cu funcționalități de planificare, urmărire și raportare.",
+        "propunere_structura": "1. Frontend: React Native\n2. Backend: Django\n3. Baza de date: PostgreSQL\n4. Raportare: Chart.js",
+        "zile_dezvoltare": 28,
+        "numar_programatori": 2
+    },
+    {
+        "cerinta": "Dezvoltarea unei platforme de mentorat, cu funcționalități de matching, programare și feedback.",
+        "propunere_structura": "1. Frontend: Angular\n2. Backend: Spring Boot\n3. Baza de date: MySQL\n4. Video chat: Twilio API",
+        "zile_dezvoltare": 42,
+        "numar_programatori": 3
+    },
+    {
+        "cerinta": "Crearea unei aplicații de gestionare a proiectelor creative, cu funcționalități de brainstorming, sarcini și colaborare.",
+        "propunere_structura": "1. Frontend: Vue.js\n2. Backend: Node.js, Express\n3. Baza de date: MongoDB\n4. Colaborare: Slack API",
+        "zile_dezvoltare": 35,
+        "numar_programatori": 2
+    },
+    {
+        "cerinta": "Dezvoltarea unei platforme de servicii freelance, cu funcționalități de publicare a proiectelor, ofertare și plăți.",
+        "propunere_structura": "1. Frontend: React\n2. Backend: Django\n3. Baza de date: PostgreSQL\n4. Plăți: PayPal",
+        "zile_dezvoltare": 49,
+        "numar_programatori": 3
+    },
+    {
+        "cerinta": "Crearea unei aplicații de gestionare a contractelor, cu funcționalități de creare, urmărire și semnare electronică.",
+        "propunere_structura": "1. Frontend: Angular\n2. Backend: Spring Boot\n3. Baza de date: MySQL\n4. Semnături: DocuSign API",
+        "zile_dezvoltare": 42,
+        "numar_programatori": 3
+    },
+    {
+        "cerinta": "Dezvoltarea unei aplicații de urmărire a sănătății mentale, cu funcționalități de jurnal, meditație și monitorizare a stării.",
+        "propunere_structura": "1. Frontend: React Native\n2. Backend: Node.js, Express\n3. Baza de date: MongoDB\n4. Meditație: Calm API",
+        "zile_dezvoltare": 35,
+        "numar_programatori": 2
+    },
+    {
+        "cerinta": "Crearea unei aplicații de gestionare a documentelor, cu funcționalități de stocare, căutare și partajare.",
+        "propunere_structura": "1. Frontend: Vue.js\n2. Backend: Django\n3. Baza de date: PostgreSQL\n4. Stocare: AWS S3",
+        "zile_dezvoltare": 28,
+        "numar_programatori": 2
+    },
+    {
+        "cerinta": "Dezvoltarea unei platforme de gestionare a evenimentelor, cu funcționalități de programare, bilete și notificări.",
+        "propunere_structura": "1. Frontend: React\n2. Backend: Node.js, Express\n3. Baza de date: MongoDB\n4. Bilete: Eventbrite API",
+        "zile_dezvoltare": 42,
+        "numar_programatori": 3
+    },
+    {
+        "cerinta": "Crearea unei aplicații de gestionare a asigurărilor, cu funcționalități de ofertare, polițe și plăți.",
+        "propunere_structura": "1. Frontend: Angular\n2. Backend: Spring Boot\n3. Baza de date: MySQL\n4. Plăți: Stripe",
+        "zile_dezvoltare": 49,
+        "numar_programatori": 3
+    },
+    {
+        "cerinta": "Dezvoltarea unei platforme de analiză a datelor de vânzări, cu funcționalități de raportare, vizualizare și predicție.",
+        "propunere_structura": "1. Frontend: Vue.js\n2. Backend: Django\n3. Baza de date: PostgreSQL\n4. Vizualizare: D3.js",
+        "zile_dezvoltare": 35,
+        "numar_programatori": 2
+    },
+    {
+        "cerinta": "Crearea unei aplicații de gestionare a inventarului pentru magazine, cu funcționalități de urmărire a stocurilor și raportare.",
+        "propunere_structura": "1. Frontend: React\n2. Backend: Node.js, Express\n3. Baza de date: MongoDB\n4. Raportare: Chart.js",
+        "zile_dezvoltare": 28,
+        "numar_programatori": 2
+    },
+    {
+        "cerinta": "Dezvoltarea unei platforme de analiză a rețelelor sociale, cu funcționalități de monitorizare, analiză și raportare.",
+        "propunere_structura": "1. Frontend: Angular\n2. Backend: Django\n3. Baza de date: PostgreSQL\n4. API-uri: Twitter, Facebook",
+        "zile_dezvoltare": 42,
+        "numar_programatori": 3
+    },
+    {
+        "cerinta": "Crearea unei aplicații de gestionare a rezervărilor pentru restaurante, cu funcționalități de rezervare, meniuri și notificări.",
+        "propunere_structura": "1. Frontend: Vue.js\n2. Backend: Node.js, Express\n3. Baza de date: MongoDB\n4. Notificări: Twilio API",
+        "zile_dezvoltare": 35,
+        "numar_programatori": 2
+    },
+    {
+        "cerinta": "Dezvoltarea unei aplicații de urmărire a activităților sportive, cu funcționalități de antrenamente, nutriție și monitorizare.",
+        "propunere_structura": "1. Frontend: React Native\n2. Backend: Django\n3. Baza de date: PostgreSQL\n4. API-uri de sănătate: Fitbit, MyFitnessPal",
+        "zile_dezvoltare": 49,
+        "numar_programatori": 3
+    },
+    {
+        "cerinta": "Crearea unei platforme de gestionare a contractelor de muncă, cu funcționalități de creare, urmărire și semnare electronică.",
+        "propunere_structura": "1. Frontend: Angular\n2. Backend: Spring Boot\n3. Baza de date: MySQL\n4. Semnături: DocuSign API",
+        "zile_dezvoltare": 42,
+        "numar_programatori": 3
+    },
+    {
+        "cerinta": "Dezvoltarea unei aplicații de gestionare a proiectelor IT, cu funcționalități de planificare, sarcini și colaborare.",
+        "propunere_structura": "1. Frontend: Vue.js\n2. Backend: Django\n3. Baza de date: PostgreSQL\n4. Colaborare: Slack API",
+        "zile_dezvoltare": 42,
+        "numar_programatori": 3
+    },
+    {
+        "cerinta": "Crearea unei platforme de streaming video, cu funcționalități de upload, vizionare și monetizare.",
+        "propunere_structura": "1. Frontend: React\n2. Backend: Node.js, Express\n3. Baza de date: MongoDB\n4. Video: AWS MediaConvert",
+        "zile_dezvoltare": 49,
+        "numar_programatori": 3
+    },
+    {
+        "cerinta": "Dezvoltarea unei aplicații de gestionare a resurselor umane, cu funcționalități de recrutare, onboarding și evaluare.",
+        "propunere_structura": "1. Frontend: Angular\n2. Backend: Spring Boot\n3. Baza de date: MySQL\n4. Evaluare: SurveyMonkey API",
+        "zile_dezvoltare": 49,
+        "numar_programatori": 3
+    },
+    {
+        "cerinta": "Crearea unei aplicații de gestionare a asociațiilor de proprietari, cu funcționalități de comunicare, plăți și raportare.",
+        "propunere_structura": "1. Frontend: Vue.js\n2. Backend: Django\n3. Baza de date: PostgreSQL\n4. Plăți: PayPal",
+        "zile_dezvoltare": 35,
+        "numar_programatori": 2
+    },
+    {
+        "cerinta": "Dezvoltarea unei platforme de analiză a pieței imobiliare, cu funcționalități de căutare, evaluare și raportare.",
+        "propunere_structura": "1. Frontend: React\n2. Backend: Node.js, Express\n3. Baza de date: MongoDB\n4. Evaluare: Zillow API",
+        "zile_dezvoltare": 42,
+        "numar_programatori": 3
+    },
+    {
+        "cerinta": "Crearea unei aplicații de gestionare a relațiilor cu clienții pentru firme de avocatură, cu funcționalități de urmărire a cazurilor și facturare.",
+        "propunere_structura": "1. Frontend: Angular\n2. Backend: Django\n3. Baza de date: PostgreSQL\n4. Facturare: QuickBooks API",
+        "zile_dezvoltare": 42,
+        "numar_programatori": 3
+    },
+    {
+        "cerinta": "Dezvoltarea unei aplicații de gestionare a activităților de voluntariat, cu funcționalități de programare, urmărire și raportare.",
+        "propunere_structura": "1. Frontend: Vue.js\n2. Backend: Node.js, Express\n3. Baza de date: MongoDB\n4. Raportare: Chart.js",
+        "zile_dezvoltare": 35,
+        "numar_programatori": 2
+    },
+    {
+        "cerinta": "Crearea unei platforme de analiză a traficului web, cu funcționalități de monitorizare, raportare și optimizare.",
+        "propunere_structura": "1. Frontend: Angular\n2. Backend: Django\n3. Baza de date: PostgreSQL\n4. Monitorizare: Google Analytics API",
+        "zile_dezvoltare": 35,
+        "numar_programatori": 2
+    },
+    {
+        "cerinta": "Dezvoltarea unei aplicații de gestionare a rezervărilor pentru hoteluri, cu funcționalități de rezervare, check-in și notificări.",
+        "propunere_structura": "1. Frontend: React\n2. Backend: Node.js, Express\n3. Baza de date: MongoDB\n4. Notificări: Twilio API",
+        "zile_dezvoltare": 35,
+        "numar_programatori": 2
+    },
+    {
+        "cerinta": "Crearea unei aplicații de gestionare a flotelor de vehicule, cu funcționalități de urmărire, întreținere și raportare.",
+        "propunere_structura": "1. Frontend: Vue.js\n2. Backend: Django\n3. Baza de date: PostgreSQL\n4. Urmărire: GPS API",
+        "zile_dezvoltare": 42,
+        "numar_programatori": 3
+    },
+    {
+        "cerinta": "Dezvoltarea unei platforme de analiză a sentimentului, cu funcționalități de monitorizare, analiză și raportare a datelor sociale.",
+        "propunere_structura": "1. Frontend: React\n2. Backend: Node.js, Express\n3. Baza de date: MongoDB\n4. Analiză: IBM Watson API",
+        "zile_dezvoltare": 42,
+        "numar_programatori": 3
+    },
+    {
+        "cerinta": "Crearea unei aplicații de gestionare a task-urilor pentru echipe remote, cu funcționalități de planificare, colaborare și raportare.",
+        "propunere_structura": "1. Frontend: Angular\n2. Backend: Spring Boot\n3. Baza de date: MySQL\n4. Colaborare: Microsoft Teams API",
+        "zile_dezvoltare": 42,
+        "numar_programatori": 3
+    },
+    {
+        "cerinta": "Dezvoltarea unei aplicații de monitorizare a sănătății financiare, cu funcționalități de bugetare, economisire și investiții.",
+        "propunere_structura": "1. Frontend: Vue.js\n2. Backend: Django\n3. Baza de date: PostgreSQL\n4. API-uri bancare: Plaid",
+        "zile_dezvoltare": 35,
+        "numar_programatori": 2
+    },
+    {
+        "cerinta": "Crearea unei platforme de gestionare a educației online, cu funcționalități de cursuri, teste și certificate.",
+        "propunere_structura": "1. Frontend: React\n2. Backend: Node.js, Express\n3. Baza de date: MongoDB\n4. Video: Zoom API",
+        "zile_dezvoltare": 49,
+        "numar_programatori": 3
+    },
+    {
+        "cerinta": "Dezvoltarea unei aplicații de gestionare a sălilor de fitness, cu funcționalități de programări, antrenamente și plăți.",
+        "propunere_structura": "1. Frontend: Angular\n2. Backend: Spring Boot\n3. Baza de date: MySQL\n4. Plăți: Stripe",
+        "zile_dezvoltare": 42,
+        "numar_programatori": 3
+    },
+    {
+        "cerinta": "Crearea unei aplicații de monitorizare a poluării aerului, cu funcționalități de colectare, vizualizare și raportare a datelor.",
+        "propunere_structura": "1. Frontend: Vue.js\n2. Backend: Node.js, Express\n3. Baza de date: MongoDB\n4. Vizualizare: Leaflet.js",
+        "zile_dezvoltare": 35,
+        "numar_programatori": 2
+    },
+    {
+        "cerinta": "Dezvoltarea unei platforme de gestionare a serviciilor medicale la domiciliu, cu funcționalități de programări, monitorizare și raportare.",
+        "propunere_structura": "1. Frontend: React\n2. Backend: Django\n3. Baza de date: PostgreSQL\n4. Monitorizare: Fitbit API",
+        "zile_dezvoltare": 49,
+        "numar_programatori": 3
+    },
+    {
+        "cerinta": "Dezvoltarea unei aplicații de tip marketplace pentru vânzarea și cumpărarea de produse second-hand.",
+        "propunere_structura": "1. Frontend: React\n2. Backend: Node.js, Express\n3. Baza de date: MongoDB\n4. Plăți: Stripe",
+        "zile_dezvoltare": 42,
+        "numar_programatori": 3
+    },
+    {
+        "cerinta": "Crearea unei aplicații de management al timpului pentru freelanceri, cu funcționalități de urmărire a timpului și facturare.",
+        "propunere_structura": "1. Frontend: Vue.js\n2. Backend: Django\n3. Baza de date: PostgreSQL\n4. Facturare: QuickBooks API",
+        "zile_dezvoltare": 28,
+        "numar_programatori": 2
+    },
+    {
+        "cerinta": "Dezvoltarea unui sistem de rezervări pentru saloane de înfrumusețare, cu funcționalități de programare, notificări și plăți.",
+        "propunere_structura": "1. Frontend: Angular\n2. Backend: Spring Boot\n3. Baza de date: MySQL\n4. Notificări: Twilio API",
+        "zile_dezvoltare": 35,
+        "numar_programatori": 3
+    },
+    {
+        "cerinta": "Crearea unei aplicații de fitness cu antrenamente personalizate, urmărirea progresului și planuri de nutriție.",
+        "propunere_structura": "1. Frontend: React Native\n2. Backend: Node.js, Express\n3. Baza de date: MongoDB\n4. API-uri de sănătate: Fitbit",
+        "zile_dezvoltare": 49,
+        "numar_programatori": 3
+    },
+    {
+        "cerinta": "Dezvoltarea unei platforme de e-learning, cu funcționalități de cursuri video, teste și forumuri de discuții.",
+        "propunere_structura": "1. Frontend: Angular\n2. Backend: Django\n3. Baza de date: PostgreSQL\n4. Video: Zoom API",
+        "zile_dezvoltare": 56,
+        "numar_programatori": 3
+    },
+    {
+        "cerinta": "Crearea unei aplicații de gestionare a proiectelor pentru echipe remote, cu funcționalități de sarcini, comunicare și raportare.",
+        "propunere_structura": "1. Frontend: Vue.js\n2. Backend: Node.js, Express\n3. Baza de date: MongoDB\n4. Colaborare: Slack API",
+        "zile_dezvoltare": 42,
+        "numar_programatori": 3
+    },
+    {
+        "cerinta": "Dezvoltarea unui portal de recrutare, cu funcționalități de postare joburi, căutare candidați și managementul aplicațiilor.",
+        "propunere_structura": "1. Frontend: React\n2. Backend: Spring Boot\n3. Baza de date: MySQL\n4. Notificări: Twilio API",
+        "zile_dezvoltare": 49,
+        "numar_programatori": 3
+    },
+    {
+        "cerinta": "Crearea unei aplicații de monitorizare a energiei, cu funcționalități de colectare, analiză și raportare a consumului.",
+        "propunere_structura": "1. Frontend: Angular\n2. Backend: Django\n3. Baza de date: PostgreSQL\n4. Vizualizare: D3.js",
+        "zile_dezvoltare": 35,
+        "numar_programatori": 2
+    },
+    {
+        "cerinta": "Dezvoltarea unei platforme de gestionare a inventarului pentru depozite, cu funcționalități de urmărire a stocurilor și raportare.",
+        "propunere_structura": "1. Frontend: Vue.js\n2. Backend: Node.js, Express\n3. Baza de date: MongoDB\n4. Raportare: Chart.js",
+        "zile_dezvoltare": 42,
+        "numar_programatori": 3
+    },
+    {
+        "cerinta": "Crearea unei aplicații de gestionare a sarcinilor pentru studenți, cu funcționalități de planificare, notificări și raportare.",
+        "propunere_structura": "1. Frontend: React\n2. Backend: Django\n3. Baza de date: PostgreSQL\n4. Notificări: Twilio API",
+        "zile_dezvoltare": 35,
+        "numar_programatori": 2
+    },
+    {
+        "cerinta": "Dezvoltarea unei platforme de analiză a pieței financiare, cu funcționalități de monitorizare, analiză și raportare a datelor.",
+        "propunere_structura": "1. Frontend: Angular\n2. Backend: Spring Boot\n3. Baza de date: MySQL\n4. API-uri financiare: Alpha Vantage",
+        "zile_dezvoltare": 49,
+        "numar_programatori": 3
+    },
+    {
+        "cerinta": "Crearea unei aplicații de monitorizare a sănătății mentale, cu funcționalități de jurnale, urmărire a stării și rapoarte.",
+        "propunere_structura": "1. Frontend: Vue.js\n2. Backend: Node.js, Express\n3. Baza de date: MongoDB\n4. API-uri de sănătate: Fitbit",
+        "zile_dezvoltare": 35,
+        "numar_programatori": 2
+    },
+    {
+        "cerinta": "Dezvoltarea unui sistem de gestionare a flotelor de vehicule, cu funcționalități de urmărire, întreținere și raportare.",
+        "propunere_structura": "1. Frontend: React\n2. Backend: Django\n3. Baza de date: PostgreSQL\n4. Urmărire: GPS API",
+        "zile_dezvoltare": 42,
+        "numar_programatori": 3
+    },
+    {
+        "cerinta": "Crearea unei aplicații de rezervare a meselor la restaurant, cu funcționalități de căutare, rezervare și notificări.",
+        "propunere_structura": "1. Frontend: Angular\n2. Backend: Spring Boot\n3. Baza de date: MySQL\n4. Notificări: Twilio API",
+        "zile_dezvoltare": 35,
+        "numar_programatori": 2
+    },
+    {
+        "cerinta": "Dezvoltarea unei platforme de analiză a performanțelor sportive, cu funcționalități de monitorizare, analiză și raportare.",
+        "propunere_structura": "1. Frontend: Vue.js\n2. Backend: Django\n3. Baza de date: PostgreSQL\n4. API-uri sportive: Strava",
+        "zile_dezvoltare": 42,
+        "numar_programatori": 3
+    },
+    {
+        "cerinta": "Crearea unei aplicații de gestionare a conferințelor, cu funcționalități de programare, bilete și notificări.",
+        "propunere_structura": "1. Frontend: React\n2. Backend: Node.js, Express\n3. Baza de date: MongoDB\n4. Bilete: Eventbrite API",
+        "zile_dezvoltare": 42,
+        "numar_programatori": 3
+    },
+    {
+        "cerinta": "Dezvoltarea unui portal de gestionare a documentelor, cu funcționalități de stocare, căutare și partajare.",
+        "propunere_structura": "1. Frontend: Angular\n2. Backend: Django\n3. Baza de date: PostgreSQL\n4. Stocare: AWS S3",
+        "zile_dezvoltare": 35,
+        "numar_programatori": 2
+    },
+    {
+        "cerinta": "Crearea unei platforme de analiză a sentimentului, cu funcționalități de monitorizare, analiză și raportare a datelor sociale.",
+        "propunere_structura": "1. Frontend: Vue.js\n2. Backend: Node.js, Express\n3. Baza de date: MongoDB\n4. Analiză: IBM Watson API",
+        "zile_dezvoltare": 42,
+        "numar_programatori": 3
+    },
+    {
+        "cerinta": "Dezvoltarea unei aplicații de monitorizare a activităților de voluntariat, cu funcționalități de programare, urmărire și raportare.",
+        "propunere_structura": "1. Frontend: React\n2. Backend: Django\n3. Baza de date: PostgreSQL\n4. Raportare: Chart.js",
+        "zile_dezvoltare": 35,
+        "numar_programatori": 2
+    },
+    {
+        "cerinta": "Crearea unei aplicații de gestionare a task-urilor pentru echipe remote, cu funcționalități de planificare, colaborare și raportare.",
+        "propunere_structura": "1. Frontend: Angular\n2. Backend: Spring Boot\n3. Baza de date: MySQL\n4. Colaborare: Microsoft Teams API",
+        "zile_dezvoltare": 42,
+        "numar_programatori": 3
+    },
+    {
+        "cerinta": "Dezvoltarea unei aplicații de monitorizare a sănătății financiare, cu funcționalități de bugetare, economisire și investiții.",
+        "propunere_structura": "1. Frontend: Vue.js\n2. Backend: Django\n3. Baza de date: PostgreSQL\n4. API-uri bancare: Plaid",
+        "zile_dezvoltare": 35,
+        "numar_programatori": 2
+    },
+    {
+        "cerinta": "Crearea unei platforme de gestionare a educației online, cu funcționalități de cursuri, teste și certificate.",
+        "propunere_structura": "1. Frontend: React\n2. Backend: Node.js, Express\n3. Baza de date: MongoDB\n4. Video: Zoom API",
+        "zile_dezvoltare": 49,
+        "numar_programatori": 3
+    },
+    {
+        "cerinta": "Dezvoltarea unei aplicații de gestionare a sălilor de fitness, cu funcționalități de programări, antrenamente și plăți.",
+        "propunere_structura": "1. Frontend: Angular\n2. Backend: Spring Boot\n3. Baza de date: MySQL\n4. Plăți: Stripe",
+        "zile_dezvoltare": 42,
+        "numar_programatori": 3
+    },
+    {
+        "cerinta": "Crearea unei aplicații de monitorizare a poluării aerului, cu funcționalități de colectare, vizualizare și raportare a datelor.",
+        "propunere_structura": "1. Frontend: Vue.js\n2. Backend: Node.js, Express\n3. Baza de date: MongoDB\n4. Vizualizare: Leaflet.js",
+        "zile_dezvoltare": 35,
+        "numar_programatori": 2
+    },
+    {
+        "cerinta": "Dezvoltarea unei platforme de gestionare a serviciilor medicale la domiciliu, cu funcționalități de programări, monitorizare și raportare.",
+        "propunere_structura": "1. Frontend: React\n2. Backend: Django\n3. Baza de date: PostgreSQL\n4. Monitorizare: Fitbit API",
+        "zile_dezvoltare": 49,
+        "numar_programatori": 3
+    },
+    {
+        "cerinta": "Crearea unei aplicații de gestionare a bibliotecilor digitale, cu funcționalități de căutare, împrumut și citire online.",
+        "propunere_structura": "1. Frontend: Angular\n2. Backend: Spring Boot\n3. Baza de date: MySQL\n4. Stocare: AWS S3",
+        "zile_dezvoltare": 35,
+        "numar_programatori": 2
+    },
+    {
+        "cerinta": "Dezvoltarea unui portal de gestionare a ofertelor de muncă, cu funcționalități de postare, căutare și aplicare la joburi.",
+        "propunere_structura": "1. Frontend: Vue.js\n2. Backend: Node.js, Express\n3. Baza de date: MongoDB\n4. Notificări: Twilio API",
+        "zile_dezvoltare": 42,
+        "numar_programatori": 3
+    },
+    {
+        "cerinta": "Crearea unei aplicații de gestionare a serviciilor de curățenie, cu funcționalități de programări, urmărire și plăți.",
+        "propunere_structura": "1. Frontend: React\n2. Backend: Django\n3. Baza de date: PostgreSQL\n4. Plăți: Stripe",
+        "zile_dezvoltare": 35,
+        "numar_programatori": 2
+    },
+    {
+        "cerinta": "Dezvoltarea unei platforme de gestionare a imobiliarelor, cu funcționalități de listare, căutare și programare vizionări.",
+        "propunere_structura": "1. Frontend: Angular\n2. Backend: Spring Boot\n3. Baza de date: MySQL\n4. Vizualizare: Google Maps API",
+        "zile_dezvoltare": 42,
+        "numar_programatori": 3
+    },
+    {
+        "cerinta": "Crearea unei aplicații de monitorizare a rețelelor de socializare, cu funcționalități de colectare, analiză și raportare a datelor.",
+        "propunere_structura": "1. Frontend: Vue.js\n2. Backend: Node.js, Express\n3. Baza de date: MongoDB\n4. Analiză: IBM Watson API",
+        "zile_dezvoltare": 42,
+        "numar_programatori": 3
+    },
+    {
+        "cerinta": "Dezvoltarea unui portal de gestionare a evenimentelor sportive, cu funcționalități de programare, bilete și raportare.",
+        "propunere_structura": "1. Frontend: React\n2. Backend: Django\n3. Baza de date: PostgreSQL\n4. Bilete: Eventbrite API",
+        "zile_dezvoltare": 49,
+        "numar_programatori": 3
+    },
+    {
+        "cerinta": "Crearea unei aplicații de monitorizare a calității apei, cu funcționalități de colectare, vizualizare și raportare a datelor.",
+        "propunere_structura": "1. Frontend: Angular\n2. Backend: Spring Boot\n3. Baza de date: MySQL\n4. Vizualizare: D3.js",
+        "zile_dezvoltare": 35,
+        "numar_programatori": 2
+    },
+    {
+        "cerinta": "Dezvoltarea unei platforme de gestionare a turismului, cu funcționalități de rezervare, itinerarii și plăți.",
+        "propunere_structura": "1. Frontend: Vue.js\n2. Backend: Node.js, Express\n3. Baza de date: MongoDB\n4. Plăți: Stripe",
+        "zile_dezvoltare": 42,
+        "numar_programatori": 3
+    },
+    {
+        "cerinta": "Crearea unei aplicații de gestionare a spitalelor, cu funcționalități de programări, monitorizare și raportare.",
+        "propunere_structura": "1. Frontend: React\n2. Backend: Django\n3. Baza de date: PostgreSQL\n4. Monitorizare: Fitbit API",
+        "zile_dezvoltare": 49,
+        "numar_programatori": 3
+    },
+    {
+        "cerinta": "Dezvoltarea unui portal de gestionare a abonamentelor, cu funcționalități de management, urmărire și raportare.",
+        "propunere_structura": "1. Frontend: Angular\n2. Backend: Spring Boot\n3. Baza de date: MySQL\n4. Plăți: Stripe",
+        "zile_dezvoltare": 35,
+        "numar_programatori": 2
+    },
+    {
+        "cerinta": "Crearea unei aplicații de monitorizare a transporturilor, cu funcționalități de urmărire, raportare și notificări.",
+        "propunere_structura": "1. Frontend: Vue.js\n2. Backend: Node.js, Express\n3. Baza de date: MongoDB\n4. Urmărire: GPS API",
+        "zile_dezvoltare": 42,
+        "numar_programatori": 3
+    },
+    {
+        "cerinta": "Dezvoltarea unei platforme de gestionare a donațiilor, cu funcționalități de colectare, raportare și notificări.",
+        "propunere_structura": "1. Frontend: React\n2. Backend: Django\n3. Baza de date: PostgreSQL\n4. Plăți: Stripe",
+        "zile_dezvoltare": 35,
+        "numar_programatori": 2
+    },
+    {
+        "cerinta": "Crearea unei aplicații de gestionare a magazinelor online, cu funcționalități de căutare, coș de cumpărături și plăți.",
+        "propunere_structura": "1. Frontend: Angular\n2. Backend: Spring Boot\n3. Baza de date: MySQL\n4. Plăți: PayPal",
+        "zile_dezvoltare": 42,
+        "numar_programatori": 3
+    },
+    {
+        "cerinta": "Dezvoltarea unei aplicații de monitorizare a agriculturii, cu funcționalități de urmărire, analiză și raportare a datelor.",
+        "propunere_structura": "1. Frontend: Vue.js\n2. Backend: Node.js, Express\n3. Baza de date: MongoDB\n4. Vizualizare: Leaflet.js",
+        "zile_dezvoltare": 35,
+        "numar_programatori": 2
+    }
+]
+
