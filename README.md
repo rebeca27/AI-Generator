@@ -36,8 +36,7 @@ pip install transformers optuna scikit-learn pandas evaluate torch
 
 1. Clonați acest repository:
 
-
-git clonehttps://github.com/rebeca27/generator
+git clonehttps://github.com/rebeca27/ai-generator
 cd ai-offer-generation
 
 
